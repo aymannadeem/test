@@ -1,7 +1,7 @@
 class RubyTest < Self
 
   def coolStory
-    puts "bro"
+    puts "sis"
   end
 
 end
